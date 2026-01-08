@@ -1,4 +1,4 @@
-package com.asaintsever.tech_watch_mobile_app
+package com.asaintsever.watcher_mobile_app
 
 import io.flutter.embedding.android.FlutterActivity
 

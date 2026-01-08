@@ -1,4 +1,4 @@
-# Tech-Watch Mobile App (Android & iOS)
+# Watcher Mobile App (Android & iOS)
 
 Mobile app for Technology Watch.
 
@@ -7,7 +7,7 @@ Mobile app for Technology Watch.
 This [Flutter](https://docs.flutter.dev/) application has been generated using Flutter CLI:
 
 ```sh
-flutter create --platforms android,ios --org com.asaintsever tech_watch_mobile_app
+flutter create --platforms android,ios --org com.asaintsever watcher_mobile_app
 ```
 
 ## Set or update app icon
@@ -18,10 +18,10 @@ Using [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons) 
 flutter_launcher_icons:
   android: true
   ios: true
-  image_path: "assets/icon/tech-watch-app.png"
+  image_path: "assets/icon/watcher-app.png"
   # Android adaptive icon configuration for better appearance
   adaptive_icon_background: "#1a1a2e"
-  adaptive_icon_foreground: "assets/icon/tech-watch-app.png"
+  adaptive_icon_foreground: "assets/icon/watcher-app.png"
   # This removes white space and makes icon fill the safe zone
   min_sdk_android: 21
 ```
