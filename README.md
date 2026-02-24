@@ -1,1 +1,1 @@
-# tech-watch
+# Second Brain 🧠
