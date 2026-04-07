@@ -1,4 +1,4 @@
-# Watcher Mobile App (Android & iOS)
+# Second Brain (Android & iOS)
 
 Mobile app for Technology Watch.
 
@@ -7,7 +7,7 @@ Mobile app for Technology Watch.
 This [Flutter](https://docs.flutter.dev/) application has been generated using Flutter CLI:
 
 ```sh
-flutter create --platforms android,ios --org com.asaintsever watcher_mobile_app
+flutter create --platforms android,ios --org com.asaintsever second_brain
 ```
 
 ## Set or update app icon
